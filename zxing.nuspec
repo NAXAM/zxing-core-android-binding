@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.ZxingCore.Droid</id>
-        <version>3.2.1</version>
+        <version>3.3.0</version>
         <description>Xamarin Binding Library - Zxing.Core</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Zxing.Core</title>
-        <releaseNotes>Zxing.Core v3.2.1</releaseNotes>
+        <releaseNotes>Zxing.Core v3.3.0</releaseNotes>
         <summary>Xamarin Binding Library - Zxing.Core</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/zxing-core-android-binding</projectUrl>

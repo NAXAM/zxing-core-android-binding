@@ -6,23 +6,13 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-<<<<<<< HEAD:demo/ZxingCoreQs/Properties/AssemblyInfo.cs
 [assembly: AssemblyTitle("ZxingCoreQs")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ZxingCoreQs")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
-[assembly: AssemblyTrademark("")]
-=======
-[assembly: AssemblyTitle("Naxam.Allenliu.Badgeview")]
-[assembly: AssemblyDescription("Xamarin.Android Binding Library for Allenliu.BadgeView")]
+[assembly: AssemblyDescription("Xamarin.Android Binding Library for Zxing.Core")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NAXAM COMPANY LIMITED")]
-[assembly: AssemblyProduct("X Bindings")]
+[assembly: AssemblyProduct("X Demo")]
 [assembly: AssemblyCopyright("Copyright © NAXAM 2017 ")]
 [assembly: AssemblyTrademark("NAXAM")]
->>>>>>> 72c6718... Update to v1.2.0 and publish package for BadgeView library:Naxam.Allenliu.Badgeview/Properties/AssemblyInfo.cs
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 
