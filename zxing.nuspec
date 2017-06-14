@@ -12,7 +12,7 @@
         <releaseNotes>Zxing.Core v3.2.1</releaseNotes>
         <summary>Xamarin Binding Library - Zxing.Core</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-        <projectUrl>https://github.com/NAXAM/xand-bottomnavigationviewex</projectUrl>
+        <projectUrl>https://github.com/NAXAM/zxing-core-android-binding</projectUrl>
         <copyright>Copyright (c) 2017 NAXAM</copyright>
         <tags>Xamarin.Android, zxing, zxing-core, zxing.core</tags>
         <dependencies>
