@@ -1,0 +1,31 @@
+﻿<metadata>
+  <!--
+  This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
+  
+  This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
+  <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
+  -->
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='AddressBookAUResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseAddressBook</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='AddressBookDoCoMoResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseAddressBook</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='EmailAddressResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseEmailAddress</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='BookmarkDoCoMoResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseBookmark</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='BizcardResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseBizcard</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='EmailDoCoMoResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseEmail</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='ExpandedProductResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseProduct</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='GeoResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseGeo</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='ISBNResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseISBN</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='ProductResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseProduct</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='SMSMMSResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseSMSMMS</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='SMSTOMMSTOResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseSMSTOMMSTO</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='SMTPResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseSMTP</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='TelResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseTel</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='URIResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseURI</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='URLTOResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseURLTO</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='VCardResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseVCard</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='VEventResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseVEvent</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='VINResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseVIN</attr>
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='WifiResultParser']/method[@name='parse' and count(parameter)=1 and parameter[1][@type='com.google.zxing.Result']]" name="managedName">ParseWifi</attr>
+
+  <attr path="/api/package[@name='com.google.zxing.client.result']/class[@name='AbstractDoCoMoResultParser']" name="visibility">public</attr>
+</metadata>
